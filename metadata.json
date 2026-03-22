@@ -1,0 +1,5 @@
+{
+  "name": "GiftyAI",
+  "description": "Next-Gen AI-powered gift shop with smart recommendations, AR previews, and a shopping assistant.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
